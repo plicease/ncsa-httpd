@@ -1,0 +1,17 @@
+*.o
+/httpd
+/cgi-bin/imagemap
+/cgi-bin/jj
+/cgi-bin/phf
+/cgi-bin/post-query
+/cgi-bin/query
+/support/dbm2std
+/support/dbmdigest
+/support/dbmgroup
+/support/dbmpasswd
+/support/htdigest
+/support/htpasswd
+/support/inc2shtml
+/support/std2dbm
+/support/unescape
+/support/webgrab
